@@ -1174,5 +1174,9 @@ window.RULES_INTERMEDIATE = {
     "/5453453453": {
         "url": "https://baidu.com",
         "expired_at": "2026-01-14T15:15:00.000Z"
+    },
+    "/werveva": {
+        "url": "https://example.com",
+        "expired_at": "2026-01-15T15:19:00.000Z"
     }
 };
