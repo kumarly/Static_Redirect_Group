@@ -61,11 +61,66 @@ export default {
                 headers: { "Access-Control-Allow-Origin": "*" }
             });
         }
+
+        // 检查是否指向自身 (循环重定向保护)
+        const baseDomain = env.BASE_DOMAIN || "";
+        if (baseDomain) {
+            // 忽略大小写比较
+            if (parsedUrl.hostname.toLowerCase() === baseDomain.toLowerCase()) {
+                return Response.json({ error: "Cannot redirect to the URL shortener itself (Loop protection)" }, { 
+                    status: 400,
+                    headers: { "Access-Control-Allow-Origin": "*" }
+                });
+            }
+        }
       } catch (e) {
         return Response.json({ error: "Invalid URL format" }, { 
             status: 400,
             headers: { "Access-Control-Allow-Origin": "*" }
         });
+      }
+
+      // 验证 URL 有效性 (200 OK)
+      try {
+          const urlCheckResp = await fetch(url, {
+              method: "HEAD", // 尝试 HEAD 请求以节省带宽
+              headers: {
+                  "User-Agent": "Mozilla/5.0 (compatible; URLChecker/1.0)"
+              }
+          });
+          
+          if (!urlCheckResp.ok) {
+              // 如果 HEAD 失败 (如 405 Method Not Allowed)，尝试 GET
+              if (urlCheckResp.status === 405 || urlCheckResp.status === 404 || urlCheckResp.status === 403) {
+                  // 有些服务器对 HEAD 返回 404/403 但对 GET 正常，或者不支持 HEAD
+                  // 但用户要求 "不返回 200 OK 则拒绝"。
+                  // 严格来说，301/302 也是有效的重定向，通常我们也应该允许。
+                  // 如果 HEAD 失败，我们再试一次 GET，以防万一。
+                  const urlCheckRespGet = await fetch(url, {
+                      method: "GET",
+                      headers: {
+                          "User-Agent": "Mozilla/5.0 (compatible; URLChecker/1.0)"
+                      }
+                  });
+                  if (!urlCheckRespGet.ok) {
+                      return Response.json({ error: `URL check failed: ${urlCheckRespGet.status} ${urlCheckRespGet.statusText}` }, { 
+                          status: 400,
+                          headers: { "Access-Control-Allow-Origin": "*" }
+                      });
+                  }
+              } else {
+                  return Response.json({ error: `URL check failed: ${urlCheckResp.status} ${urlCheckResp.statusText}` }, { 
+                      status: 400,
+                      headers: { "Access-Control-Allow-Origin": "*" }
+                  });
+              }
+          }
+      } catch (e) {
+          console.error("URL Validation Error:", e);
+          return Response.json({ error: "URL validation failed: Unable to connect to target URL" }, { 
+              status: 400,
+              headers: { "Access-Control-Allow-Origin": "*" }
+          });
       }
 
       if (!expired_at || typeof expired_at !== "number") {
