@@ -1198,5 +1198,9 @@ window.RULES_INTERMEDIATE = {
     "/mypan": {
         "url": "https://op.btzm.me",
         "expired_at": "2026-01-15T19:38:00.000Z"
+    },
+    "/wldink": {
+        "url": "http://wld.ink/",
+        "expired_at": "2026-01-15T22:22:00.000Z"
     }
 };
