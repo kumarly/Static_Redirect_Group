@@ -1202,5 +1202,9 @@ window.RULES_INTERMEDIATE = {
     "/zkdjh": {
         "url": "https://www.jsunpack.tech.con",
         "expired_at": "2026-01-16T04:52:00.000Z"
+    },
+    "/454645": {
+        "url": "https://news.qq.com/rain/a/20260115A03LCJ00",
+        "expired_at": "2026-01-15T06:00:00.000Z"
     }
 };
