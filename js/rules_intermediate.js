@@ -1198,5 +1198,9 @@ window.RULES_INTERMEDIATE = {
     "/abcde": {
         "url": "https://blog.acofork.com/posts/static-redirect-group/",
         "expired_at": "2026-01-16T03:53:00.000Z"
+    },
+    "/zkdjh": {
+        "url": "https://www.jsunpack.tech.con",
+        "expired_at": "2026-01-16T04:52:00.000Z"
     }
 };
