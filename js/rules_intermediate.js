@@ -2142,5 +2142,9 @@ window.RULES_INTERMEDIATE = {
     "/sssss": {
         "url": "https://edu.360buyimg.men/auth/register?code=pACFdvdQ",
         "expired_at": "2026-01-21T10:41:00.000Z"
+    },
+    "/test2": {
+        "url": "https://baidu.com",
+        "expired_at": "2026-01-16T15:59:00.000Z"
     }
 };
