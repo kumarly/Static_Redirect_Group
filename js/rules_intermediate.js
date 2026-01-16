@@ -2174,5 +2174,9 @@ window.RULES_INTERMEDIATE = {
     "/123456anb": {
         "url": "https://bilibili.com",
         "expired_at": "2026-01-16T13:04:00.000Z"
+    },
+    "/fucku": {
+        "url": "https://fuck123u.com",
+        "expired_at": "2026-01-21T14:47:00.000Z"
     }
 };
