@@ -1167,26 +1167,6 @@ window.RULES_INTERMEDIATE = {
         "url": "https://blog.acofork.com/posts/onedrive-index/",
         "expired_at": ""
     },
-    "/werveva": {
-        "url": "https://example.com",
-        "expired_at": "2026-01-15T15:19:00.000Z"
-    },
-    "/test353": {
-        "url": "https://www.bilibili.com/325903362",
-        "expired_at": "2026-01-15T19:31:00.000Z"
-    },
-    "/mypan": {
-        "url": "https://op.btzm.me",
-        "expired_at": "2026-01-15T19:38:00.000Z"
-    },
-    "/wldink": {
-        "url": "http://wld.ink/",
-        "expired_at": "2026-01-15T22:22:00.000Z"
-    },
-    "/1354646757": {
-        "url": "https://iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.in/iIIIIiIIiiIiiiIiiIIIiIiIiIIIiiIiiIIiIIiiiiIiiiIiiiIIIiIiiiIiiiIiiIIiIiiiiIIIiIiiiIIIiIiiiIIIiiiiiIIIiiIIiiIIIiIiiiIiIIIIiiIiIIIIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIiIiiIiIIi",
-        "expired_at": "2026-01-15T11:26:00.000Z"
-    },
     "/re224": {
         "url": "https://github.co",
         "expired_at": "2026-01-21T23:27:00.000Z"
@@ -1203,10 +1183,6 @@ window.RULES_INTERMEDIATE = {
         "url": "https://www.jsunpack.tech.con",
         "expired_at": "2026-01-16T04:52:00.000Z"
     },
-    "/454645": {
-        "url": "https://news.qq.com/rain/a/20260115A03LCJ00",
-        "expired_at": "2026-01-15T06:00:00.000Z"
-    },
     "/a1-a2": {
         "url": "https://space.bilibili.com/374366085?spm_id_from=333.788.0.0",
         "expired_at": "2026-01-16T08:06:00.000Z"
@@ -1219,17 +1195,9 @@ window.RULES_INTERMEDIATE = {
         "url": "https://b23.tv/kTlzAW0",
         "expired_at": "2026-01-22T11:35:00.000Z"
     },
-    "/moontv": {
-        "url": "http://125.208.21.128:12008/",
-        "expired_at": "2026-01-16T00:00:00.000Z"
-    },
     "/fsdfsdfsdf": {
         "url": "https://baidu.com",
         "expired_at": "2026-01-19T16:11:00.000Z"
-    },
-    "/efgfg": {
-        "url": "https://paste.142588.xyz/paste/QpBKuQ",
-        "expired_at": "2026-01-15T13:50:00.000Z"
     },
     "/yzchili": {
         "url": "https://www.yzchili.dpdns.org/",
@@ -1254,14 +1222,6 @@ window.RULES_INTERMEDIATE = {
     "/example1": {
         "url": "http://example.com/echo?text=\"<script>alert(1)</script>\"",
         "expired_at": "2026-01-16T21:59:00.000Z"
-    },
-    "/example2": {
-        "url": "https://example.com/?s=<h1>hi</h1>",
-        "expired_at": "2026-01-16T01:11:00.000Z"
-    },
-    "/example4": {
-        "url": "https://0.0.0.0:8000/echo?payload=%3Cscript%3Ehi%3C/script%3E",
-        "expired_at": "2026-01-16T01:50:00.000Z"
     },
     "/example5": {
         "url": "http://example.com/echo?text=<script>alert(1)</script>",
