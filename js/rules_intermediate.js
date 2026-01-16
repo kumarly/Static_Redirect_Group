@@ -2010,5 +2010,9 @@ window.RULES_INTERMEDIATE = {
     "/485e0": {
         "url": "https://x.xx/?d={\"p\": \"5ad62\", \"c\": \"mJ3iLlqiHp902WeXcAPDgUgg1lUjU_5EZeiJEH208jD3uk9YKDo--34OWlIxon7lyCMIIBHhS-JGlFO35PF6_kugt1TG0uMOFxZJiu9Uq09OosWRKXC5sdhmCG8LQOoIu4_YUAuR1gnwwkwaJc6vXaS3VqoQAeYGLItI5MHkTZrDQ8gIr_XRosqPyl79tOGjwWN8_qjhfFDM0MZ3rdY9d88i629cW9rmASOSQZJYu\", \"n\": \"3b027\", \"v\": \"485e0\"}",
         "expired_at": "2026-01-19T01:02:48.000Z"
+    },
+    "/3b027": {
+        "url": "https://x.xx/?d={\"p\": \"485e0\", \"c\": \"vz4CKXlem6dUxYpoESTFbAX_Q6u4lMSEvsClTQQrvbSO_7zwgqHDVU_hcYB2YkqiXTGWmMa5czY8BD6fEpo4MKqiiPqcorqSWpQutUgMoHEClQRzCf-3sGKHkNgh6YuZ9WljCnKq51ip4tVyYqWpjWWdVtng5l7X_xkTF8YBWaDFYGeqtCIuc2hsugLJdzbLw3mV7J7aEeW5PSbbwVFFbngZsQ3HCWAbCREkqBb7Q\", \"n\": \"7ca67\", \"v\": \"3b027\"}",
+        "expired_at": "2026-01-19T01:02:50.000Z"
     }
 };
