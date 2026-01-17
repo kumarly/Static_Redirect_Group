@@ -2186,5 +2186,9 @@ window.RULES_INTERMEDIATE = {
     "/test213": {
         "url": "https://h7.cl/1h-he",
         "expired_at": "2026-01-18T10:29:00.000Z"
+    },
+    "/Pb6U6": {
+        "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
+        "expired_at": "2026-01-21T17:00:00.000Z"
     }
 };
