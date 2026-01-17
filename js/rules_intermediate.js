@@ -2762,5 +2762,9 @@ window.RULES_INTERMEDIATE = {
     "/florcn": {
         "url": "https://flor.cn",
         "expired_at": "2026-01-21T11:25:00.000Z"
+    },
+    "/rrsite": {
+        "url": "https://reducedradius.netlify.app",
+        "expired_at": "2026-01-18T11:27:00.000Z"
     }
 };
