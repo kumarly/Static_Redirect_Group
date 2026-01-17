@@ -2318,5 +2318,9 @@ window.RULES_INTERMEDIATE = {
     "/53kBUKn": {
         "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
         "expired_at": "2026-01-21T17:00:00.000Z"
+    },
+    "/Q4MRH5C": {
+        "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
+        "expired_at": "2026-01-21T17:00:00.000Z"
     }
 };
