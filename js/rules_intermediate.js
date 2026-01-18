@@ -2782,5 +2782,9 @@ window.RULES_INTERMEDIATE = {
     "/FuckIFLYT": {
         "url": "http://pet-gratefully-terrier.ngrok-free.app/",
         "expired_at": "2026-01-23T14:46:00.000Z"
+    },
+    "/ztools": {
+        "url": "https://zhuxiaojt.github.io/tools",
+        "expired_at": "2026-01-24T15:59:00.000Z"
     }
 };
