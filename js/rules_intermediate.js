@@ -1878,5 +1878,9 @@ window.RULES_INTERMEDIATE = {
     "/test1": {
         "url": "https://www.baidu.com",
         "expired_at": "2026-01-21T12:16:00.000Z"
+    },
+    "/aizhu": {
+        "url": "https://hz3.dpdns.org/",
+        "expired_at": "2026-01-26T13:25:00.000Z"
     }
 };
