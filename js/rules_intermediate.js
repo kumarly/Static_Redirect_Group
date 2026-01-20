@@ -1878,5 +1878,9 @@ window.RULES_INTERMEDIATE = {
     "/ayunnb": {
         "url": "https://ylshell-240na6f1wr.edgeone.app/main.sh",
         "expired_at": "2026-01-21T09:48:00.000Z"
+    },
+    "/potpot123": {
+        "url": "https://fuwari-251.pages.dev/",
+        "expired_at": "2026-01-27T12:08:00.000Z"
     }
 };
