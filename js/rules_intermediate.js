@@ -8002,5 +8002,9 @@ window.RULES_INTERMEDIATE = {
     "/test22": {
         "url": "https://baidu.com",
         "expired_at": "2026-01-22T15:32:00.000Z"
+    },
+    "/my123": {
+        "url": "https://123.com",
+        "expired_at": "2026-01-21T15:37:00.000Z"
     }
 };
