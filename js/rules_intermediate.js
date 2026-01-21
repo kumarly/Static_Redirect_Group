@@ -7326,5 +7326,9 @@ window.RULES_INTERMEDIATE = {
     "/gkflx": {
         "url": "https://cv.notaone.cn/",
         "expired_at": "2026-01-27T12:14:12.000Z"
+    },
+    "/lp44f": {
+        "url": "https://cv.notaone.cn/",
+        "expired_at": "2026-01-27T12:14:16.000Z"
     }
 };
