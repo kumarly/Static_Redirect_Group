@@ -7782,5 +7782,9 @@ window.RULES_INTERMEDIATE = {
     "/9s0apckp4": {
         "url": "https://cv.notaone.cn/",
         "expired_at": "2026-01-27T12:18:47.000Z"
+    },
+    "/wbhop": {
+        "url": "https://cv.notaone.cn/",
+        "expired_at": "2026-01-27T12:18:49.000Z"
     }
 };
