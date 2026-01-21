@@ -7698,5 +7698,9 @@ window.RULES_INTERMEDIATE = {
     "/2kpuid": {
         "url": "https://cv.notaone.cn/",
         "expired_at": "2026-01-27T12:18:00.000Z"
+    },
+    "/puuv3p02m": {
+        "url": "https://cv.notaone.cn/",
+        "expired_at": "2026-01-27T12:18:02.000Z"
     }
 };
