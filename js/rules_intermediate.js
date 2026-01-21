@@ -5454,5 +5454,9 @@ window.RULES_INTERMEDIATE = {
     "/kagagd": {
         "url": "https://cv.notaone.cn/",
         "expired_at": "2026-01-27T11:54:59.000Z"
+    },
+    "/7zqx8j1": {
+        "url": "https://cv.notaone.cn/",
+        "expired_at": "2026-01-27T11:55:01.000Z"
     }
 };
