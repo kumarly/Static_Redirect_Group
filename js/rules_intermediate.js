@@ -5130,5 +5130,9 @@ window.RULES_INTERMEDIATE = {
     "/o9y4vtxx3n": {
         "url": "https://cv.notaone.cn/",
         "expired_at": "2026-01-27T11:49:33.000Z"
+    },
+    "/fb3ml2t99f": {
+        "url": "https://cv.notaone.cn/",
+        "expired_at": "2026-01-27T11:49:35.000Z"
     }
 };
