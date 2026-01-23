@@ -1167,22 +1167,6 @@ window.RULES_INTERMEDIATE = {
         "url": "https://blog.acofork.com/posts/onedrive-index/",
         "expired_at": ""
     },
-    "/hlmjsr": {
-        "url": "https://wtmbl.de5.net",
-        "expired_at": "2026-01-22T03:01:00.000Z"
-    },
-    "/foggy": {
-        "url": "https://b23.tv/kTlzAW0",
-        "expired_at": "2026-01-22T11:35:00.000Z"
-    },
-    "/yzchili": {
-        "url": "https://www.yzchili.dpdns.org/",
-        "expired_at": "2026-01-22T14:06:00.000Z"
-    },
-    "/abfffa": {
-        "url": "http://example.com",
-        "expired_at": "2026-01-22T12:27:00.000Z"
-    },
     "/weipe": {
         "url": "https://www.weipe.vip/",
         "expired_at": "2026-01-24T00:26:00.000Z"
@@ -1258,14 +1242,6 @@ window.RULES_INTERMEDIATE = {
     "/djsnfnf": {
         "url": "https://cv.notaone.cn/login",
         "expired_at": "2026-01-27T21:30:00.000Z"
-    },
-    "/8888-001": {
-        "url": "https://www.baidu.com",
-        "expired_at": "2026-01-22T03:22:00.000Z"
-    },
-    "/baiduu": {
-        "url": "https://baidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.combaidu.com",
-        "expired_at": "2026-01-22T13:47:00.000Z"
     },
     "/kjnbvbnm": {
         "url": "https://cv.notaone.cn/",
@@ -7367,10 +7343,6 @@ window.RULES_INTERMEDIATE = {
         "url": "https://pan.quark.cn/s/083a34e373a3",
         "expired_at": "2026-01-26T13:06:00.000Z"
     },
-    "/test22": {
-        "url": "https://baidu.com",
-        "expired_at": "2026-01-22T15:32:00.000Z"
-    },
     "/123abc": {
         "url": "https://www.bing.com",
         "expired_at": "2026-01-26T19:11:00.000Z"
@@ -7390,9 +7362,5 @@ window.RULES_INTERMEDIATE = {
     "/sparks": {
         "url": "https://blog.acofork.com/posts/shorter-url/",
         "expired_at": "2026-01-23T16:33:00.000Z"
-    },
-    "/12555": {
-        "url": "https://www.baidu.com",
-        "expired_at": "2026-01-22T18:05:00.000Z"
     }
 };
