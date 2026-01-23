@@ -7382,5 +7382,9 @@ window.RULES_INTERMEDIATE = {
     "/f2222": {
         "url": "https://lanzou.ly93.cc/inv2s3edxjbe",
         "expired_at": "2026-01-30T09:37:00.000Z"
+    },
+    "/HGH6GH": {
+        "url": "HTTPS://CAYNET.CN",
+        "expired_at": "2026-01-30T10:31:00.000Z"
     }
 };
