@@ -8930,5 +8930,9 @@ window.RULES_INTERMEDIATE = {
     "/albb1688": {
         "url": "https://www.1688.com/",
         "expired_at": "2026-01-24T16:22:00.000Z"
+    },
+    "/Acofok": {
+        "url": "https://q",
+        "expired_at": "2026-01-31T15:02:00.000Z"
     }
 };
