@@ -7502,5 +7502,9 @@ window.RULES_INTERMEDIATE = {
     "/bca0b3572e": {
         "url": "https://bilibili.com",
         "expired_at": "2026-01-27T04:46:00.000Z"
+    },
+    "/f61a624090": {
+        "url": "https://bilibili.com",
+        "expired_at": "2026-01-27T04:46:00.000Z"
     }
 };
