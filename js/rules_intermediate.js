@@ -8938,5 +8938,9 @@ window.RULES_INTERMEDIATE = {
     "/YBshop": {
         "url": "https://kwpro.cn/shop/YBditie",
         "expired_at": "2026-01-30T01:25:00.000Z"
+    },
+    "/gfugZ": {
+        "url": "https://kwpro.cn/shop/YBditie",
+        "expired_at": "2026-01-31T01:35:00.000Z"
     }
 };
