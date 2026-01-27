@@ -8910,5 +8910,9 @@ window.RULES_INTERMEDIATE = {
     "/ASADA": {
         "url": "https://live.bilibili.com/30931147",
         "expired_at": "2026-01-28T05:04:00.000Z"
+    },
+    "/bilibiliff": {
+        "url": "https://www.bilibili.com/",
+        "expired_at": "2026-01-30T06:37:00.000Z"
     }
 };
