@@ -3258,5 +3258,9 @@ window.RULES_INTERMEDIATE = {
     "/XbHNJa": {
         "url": "https://signup.cloud.oracle.com/?verify_email=eyJhbGciOiJIUzI1NiJ9.eyJjYXB0Y2hhSnd0VG9rZW4iOiJleUpoYkdjaU9pSklVekkxTmlKOS5leUp6ZFdJaU9pSnZZMmt0YzJsbmJuVndJaXdpYVhOeklqb2lhSFIwY0hNNkx5OXphV2R1ZFhBdWIzSmhZMnhsWTJ4dmRXUXVZMjl0SWl3aVpYaHdJam94TnpZNU5UWTJPRE0wTENKcFlYUWlPakUzTmprMU5qTXlNelFzSW1WdFlXbHNJa",
         "expired_at": "2026-01-29T01:28:00.000Z"
+    },
+    "/66666666": {
+        "url": "https://www.bilibili.com/video/BV1q2i1BLEJT/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=c43d0c21006d0837729680aa48130af9",
+        "expired_at": "2026-01-28T18:56:00.000Z"
     }
 };
