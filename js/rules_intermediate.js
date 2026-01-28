@@ -3270,5 +3270,9 @@ window.RULES_INTERMEDIATE = {
     "/klxss": {
         "url": "https://120524.xyz/",
         "expired_at": "2026-02-04T11:30:00.000Z"
+    },
+    "/Microsoft": {
+        "url": "https://poki.com/zh/g/monkey-mart#fullscreen",
+        "expired_at": "2026-02-04T12:27:00.000Z"
     }
 };
