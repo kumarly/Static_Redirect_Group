@@ -2514,5 +2514,9 @@ window.RULES_INTERMEDIATE = {
     "/clash": {
         "url": "https://pan.baidu.com/s/1VNTtfm54Sqgc5kO8WRfuUQ",
         "expired_at": "2026-01-29T13:25:00.000Z"
+    },
+    "/hsalc": {
+        "url": "https://pan.baidu.com/s/1u8fnEjxUQtztgVyLBFqVfQ",
+        "expired_at": "2026-01-30T11:28:00.000Z"
     }
 };
