@@ -2506,5 +2506,9 @@ window.RULES_INTERMEDIATE = {
     "/asdfghjkl": {
         "url": "https://iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.in/iIIIIiIIiiIiiiIiiIIIiIiIiIIIiiIiiIIiIIiiiiIiiiIiiiIIIiIiiiIiiiIiiIIiIiiiiIIIiIiiiIIIiIiiiIIIiiiiiIIIiiIIiiIIIiIiiiIiIIIIiiIiIIIIiiIIiiIiiIIIIiiiiiIiIIIiiIIiIIIiiIIIIiIiiiIiIIIIiIIiiiiIiIIIiiIIiIIi",
         "expired_at": "2026-02-04T07:49:00.000Z"
+    },
+    "/yqyhome": {
+        "url": "https://yqypuls.cn",
+        "expired_at": "2026-01-30T10:20:00.000Z"
     }
 };
