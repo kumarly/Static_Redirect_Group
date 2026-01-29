@@ -2490,5 +2490,9 @@ window.RULES_INTERMEDIATE = {
     "/nyhhnnyhjy": {
         "url": "https://baidu.com/javascript:alert(1)//",
         "expired_at": "2026-01-29T07:29:00.000Z"
+    },
+    "/qwqawa": {
+        "url": "https://www.baidu.com/link?url=BbikJ1_oJzpCh8ZiC-3JvwdcEl1i9YN2U1QWuWtCfRq&wd=&eqid=ee77e8d300007d0f00000003697b0e4b",
+        "expired_at": "2026-01-31T07:29:00.000Z"
     }
 };
