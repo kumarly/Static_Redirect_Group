@@ -3282,5 +3282,9 @@ window.RULES_INTERMEDIATE = {
     "/sora2": {
         "url": "https://my.feishu.cn/wiki/EwoNwhDHviwL54kZ5zscmxulnbb",
         "expired_at": "2026-02-03T14:53:00.000Z"
+    },
+    "/coloryi": {
+        "url": "https://coloryi.dpdns.org/",
+        "expired_at": "2026-02-01T15:59:00.000Z"
     }
 };
