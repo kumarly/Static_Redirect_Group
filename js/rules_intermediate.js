@@ -2494,5 +2494,9 @@ window.RULES_INTERMEDIATE = {
     "/huijing": {
         "url": "https://www.123865.com/s/eY85Td-HPwGd",
         "expired_at": "2026-02-06T02:10:00.000Z"
+    },
+    "/zzczz": {
+        "url": "https://linux.do/t/topic/1543437",
+        "expired_at": "2026-01-31T10:48:00.000Z"
     }
 };
