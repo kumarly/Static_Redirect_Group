@@ -2490,5 +2490,9 @@ window.RULES_INTERMEDIATE = {
     "/red1loltes": {
         "url": "https://example.com",
         "expired_at": "2026-02-03T08:05:00.000Z"
+    },
+    "/huijing": {
+        "url": "https://www.123865.com/s/eY85Td-HPwGd",
+        "expired_at": "2026-02-06T02:10:00.000Z"
     }
 };
