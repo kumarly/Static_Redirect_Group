@@ -2510,5 +2510,9 @@ window.RULES_INTERMEDIATE = {
     "/xiaoxi": {
         "url": "https://dnq.br3.cn/o",
         "expired_at": "2026-02-04T16:34:00.000Z"
+    },
+    "/xiaoxiovo": {
+        "url": "http://120.26.230.208:3000/#/chat",
+        "expired_at": "2026-02-04T18:03:00.000Z"
     }
 };
