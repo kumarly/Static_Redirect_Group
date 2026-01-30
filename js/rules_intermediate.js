@@ -2530,5 +2530,9 @@ window.RULES_INTERMEDIATE = {
     "/uuuwwwuuu": {
         "url": "https://2x.nz./uuuwwwuuu",
         "expired_at": "2026-02-04T16:00:00.000Z"
+    },
+    "/___url": {
+        "url": "https://2x.nz./_url",
+        "expired_at": "2026-02-06T01:09:00.000Z"
     }
 };
