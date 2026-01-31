@@ -1298,5 +1298,9 @@ window.RULES_INTERMEDIATE = {
     "/op3et": {
         "url": "https://yandex.com",
         "expired_at": "2026-02-06T00:20:00.000Z"
+    },
+    "/liuli": {
+        "url": "https://luckyy.qzz.io/home/",
+        "expired_at": "2026-02-07T05:48:00.000Z"
     }
 };
