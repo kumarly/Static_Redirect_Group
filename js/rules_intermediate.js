@@ -2538,5 +2538,9 @@ window.RULES_INTERMEDIATE = {
     "/kkaann": {
         "url": "https://httpbin.org/redirect-to?status_code=301&url=https://kemono.cr/fanbox/user/44987750",
         "expired_at": "2026-02-05T18:06:00.000Z"
+    },
+    "/pornhub": {
+        "url": "https://httpbin.org/redirect-to?status_code=301&url=https://pornhub.com",
+        "expired_at": "2026-02-05T18:06:00.000Z"
     }
 };
