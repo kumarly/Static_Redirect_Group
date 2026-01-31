@@ -1306,5 +1306,9 @@ window.RULES_INTERMEDIATE = {
     "/dddddd": {
         "url": "http://www.google.com",
         "expired_at": "2026-02-02T16:04:00.000Z"
+    },
+    "/karolbili": {
+        "url": "https://www.bilibili.com",
+        "expired_at": "2026-02-07T13:27:00.000Z"
     }
 };
