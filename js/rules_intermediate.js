@@ -1294,5 +1294,9 @@ window.RULES_INTERMEDIATE = {
     "/yiyiyi": {
         "url": "https://junxiyiyi.lanzouq.com/ivUBN3hf74mj",
         "expired_at": "2026-02-05T15:59:00.000Z"
+    },
+    "/op3et": {
+        "url": "https://yandex.com",
+        "expired_at": "2026-02-06T00:20:00.000Z"
     }
 };
