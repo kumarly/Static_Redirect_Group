@@ -2550,5 +2550,9 @@ window.RULES_INTERMEDIATE = {
     "/p140570689": {
         "url": "https://httpbin.org/redirect-to?status_code=301&url=https://www.pixiv.net/artworks/140570689",
         "expired_at": "2026-02-06T00:10:16.747Z"
+    },
+    "/p140564539": {
+        "url": "https://httpbin.org/redirect-to?status_code=301&url=https://www.pixiv.net/artworks/140564539",
+        "expired_at": "2026-02-06T00:11:55.560Z"
     }
 };
