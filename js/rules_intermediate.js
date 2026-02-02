@@ -1290,5 +1290,9 @@ window.RULES_INTERMEDIATE = {
     "/laoma": {
         "url": "https://308.zke.me",
         "expired_at": "2026-02-02T16:59:00.000Z"
+    },
+    "/yalolo": {
+        "url": "https://ming329.me",
+        "expired_at": "2026-02-03T18:08:00.000Z"
     }
 };
