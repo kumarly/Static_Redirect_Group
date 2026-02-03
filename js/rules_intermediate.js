@@ -1282,5 +1282,9 @@ window.RULES_INTERMEDIATE = {
     "/yalolo": {
         "url": "https://ming329.me",
         "expired_at": "2026-02-03T18:08:00.000Z"
+    },
+    "/ldchat": {
+        "url": "https://chat.dijiaozhibei.top/",
+        "expired_at": "2026-02-10T09:48:00.000Z"
     }
 };
