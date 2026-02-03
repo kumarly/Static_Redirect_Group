@@ -1294,5 +1294,9 @@ window.RULES_INTERMEDIATE = {
     "/a11111": {
         "url": "https://baidu.com",
         "expired_at": "2026-02-05T16:00:00.000Z"
+    },
+    "/mdfxc": {
+        "url": "http://82.157.66.30:8588/",
+        "expired_at": "2026-02-04T07:28:00.000Z"
     }
 };
