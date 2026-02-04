@@ -1282,5 +1282,9 @@ window.RULES_INTERMEDIATE = {
     "/mdfxc": {
         "url": "http://82.157.66.30:8588/",
         "expired_at": "2026-02-04T07:28:00.000Z"
+    },
+    "/conlt": {
+        "url": "https://contract.freeflarum.com",
+        "expired_at": "2026-02-11T08:05:00.000Z"
     }
 };
