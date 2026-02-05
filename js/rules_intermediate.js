@@ -1246,5 +1246,9 @@ window.RULES_INTERMEDIATE = {
     "/mylink": {
         "url": "https://github.com/IDhammaI/FrogClient/commits/1.0",
         "expired_at": "2026-02-05T04:38:00.000Z"
+    },
+    "/tv123": {
+        "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+        "expired_at": "2026-02-12T07:13:00.000Z"
     }
 };
