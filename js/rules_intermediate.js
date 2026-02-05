@@ -1250,5 +1250,9 @@ window.RULES_INTERMEDIATE = {
     "/tv123": {
         "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
         "expired_at": "2026-02-12T07:13:00.000Z"
+    },
+    "/1145140": {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3178782229&searchtext=%E5%9B%BD%E5%BE%BD",
+        "expired_at": "2026-02-05T17:51:00.000Z"
     }
 };
